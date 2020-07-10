@@ -5,4 +5,5 @@ Initializes next.js project with default home page, CSS, Sass, a next.config.js 
 In Terminal enter project directory and enter 
 
 ```npm init -y```
+
 ```npm install next react react-dom```
